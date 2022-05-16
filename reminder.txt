@@ -1,0 +1,4 @@
+host:ubuntu@146.59.235.235
+pwd:RnB9WRqyH8k2
+
+https://github.com/Vaco-Binary-Semantics-LLP/assignment-theZulqarnain
